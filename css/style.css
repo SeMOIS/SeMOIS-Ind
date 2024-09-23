@@ -1057,7 +1057,7 @@ tr:hover td {
   align-items: center; /* Center content vertically */
 }
 .dips {
-  width: 30%;
+  width: 60%;
   height: 500px; /* Adjusted height */
   object-fit: cover; /* Ensures the content fills the container without stretching */
   background-color: #222; /* Placeholder background color */
